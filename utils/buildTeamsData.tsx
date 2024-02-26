@@ -1470,7 +1470,7 @@ const teamsData = {
     },
     // WNBA
     {
-      id: 1,
+      id: 154,
       name1: "Atlanta",
       name2: "Dream",
       league: WNBA,
@@ -1479,7 +1479,7 @@ const teamsData = {
       state: GA,
     },
     {
-      id: 1,
+      id: 155,
       name1: "Chicago",
       name2: "Sky",
       league: WNBA,
@@ -1488,7 +1488,7 @@ const teamsData = {
       state: IL,
     },
     {
-      id: 1,
+      id: 156,
       name1: "Connecticut",
       name2: "Sun",
       league: WNBA,
@@ -1497,7 +1497,7 @@ const teamsData = {
       state: CT,
     },
     {
-      id: 1,
+      id: 157,
       name1: "Indiana",
       name2: "Fever",
       league: WNBA,
@@ -1506,7 +1506,7 @@ const teamsData = {
       state: IN,
     },
     {
-      id: 1,
+      id: 158,
       name1: "New York",
       name2: "Liberty",
       league: WNBA,
@@ -1515,7 +1515,7 @@ const teamsData = {
       state: NY,
     },
     {
-      id: 1,
+      id: 159,
       name1: "Washington",
       name2: "Mystics",
       league: WNBA,
@@ -1524,7 +1524,7 @@ const teamsData = {
       state: DC,
     },
     {
-      id: 1,
+      id: 160,
       name1: "Dallas",
       name2: "Wings",
       league: WNBA,
@@ -1533,7 +1533,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 161,
       name1: "Las Vegas",
       name2: "Aces",
       league: WNBA,
@@ -1542,7 +1542,7 @@ const teamsData = {
       state: NV,
     },
     {
-      id: 1,
+      id: 162,
       name1: "Los Angeles",
       name2: "Sparks",
       league: WNBA,
@@ -1551,7 +1551,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 163,
       name1: "Minnesota",
       name2: "Lynx",
       league: WNBA,
@@ -1560,7 +1560,7 @@ const teamsData = {
       state: MN,
     },
     {
-      id: 1,
+      id: 164,
       name1: "Phoenix",
       name2: "Mercury",
       league: WNBA,
@@ -1569,7 +1569,7 @@ const teamsData = {
       state: AZ,
     },
     {
-      id: 1,
+      id: 165,
       name1: "Seattle",
       name2: "Storm",
       league: WNBA,
@@ -1577,7 +1577,6 @@ const teamsData = {
       division: null,
       state: WA,
     },
-
     // NCAA
     //ACC
     {

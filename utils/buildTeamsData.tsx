@@ -919,7 +919,7 @@ const teamsData = {
     },
     // MLS (121)
     {
-      id: 1,
+      id: 93,
       name1: "Atlanta",
       name2: "United FC",
       league: MLS,
@@ -928,7 +928,7 @@ const teamsData = {
       state: GA,
     },
     {
-      id: 1,
+      id: 94,
       name1: "Charlotte",
       name2: "FC",
       league: MLS,
@@ -937,7 +937,7 @@ const teamsData = {
       state: NC,
     },
     {
-      id: 1,
+      id: 95,
       name1: "Chicago",
       name2: "Fire FC",
       league: MLS,
@@ -946,7 +946,7 @@ const teamsData = {
       state: IL,
     },
     {
-      id: 1,
+      id: 96,
       name1: "Columbus",
       name2: "Crew",
       league: MLS,
@@ -955,7 +955,7 @@ const teamsData = {
       state: OH,
     },
     {
-      id: 1,
+      id: 97,
       name1: "FC",
       name2: "Cincinnati",
       league: MLS,
@@ -964,7 +964,7 @@ const teamsData = {
       state: OH,
     },
     {
-      id: 1,
+      id: 98,
       name1: "D.C.",
       name2: "United",
       league: MLS,
@@ -973,7 +973,7 @@ const teamsData = {
       state: DC,
     },
     {
-      id: 1,
+      id: 99,
       name1: "Inter Miami",
       name2: "CF",
       league: MLS,
@@ -982,7 +982,7 @@ const teamsData = {
       state: FL,
     },
     {
-      id: 1,
+      id: 100,
       name1: "CF",
       name2: "Montreal",
       league: MLS,
@@ -991,7 +991,7 @@ const teamsData = {
       state: CAN,
     },
     {
-      id: 1,
+      id: 101,
       name1: "Nashville",
       name2: "SC",
       league: MLS,
@@ -1000,7 +1000,7 @@ const teamsData = {
       state: TN,
     },
     {
-      id: 1,
+      id: 102,
       name1: "New England",
       name2: "Revolution",
       league: MLS,
@@ -1009,7 +1009,7 @@ const teamsData = {
       state: MA,
     },
     {
-      id: 1,
+      id: 103,
       name1: "New York City",
       name2: "FC",
       league: MLS,
@@ -1018,7 +1018,7 @@ const teamsData = {
       state: NY,
     },
     {
-      id: 1,
+      id: 104,
       name1: "New York",
       name2: "Red Bulls",
       league: MLS,
@@ -1027,7 +1027,7 @@ const teamsData = {
       state: NY,
     },
     {
-      id: 1,
+      id: 105,
       name1: "Orlando City",
       name2: "SC",
       league: MLS,
@@ -1036,7 +1036,7 @@ const teamsData = {
       state: FL,
     },
     {
-      id: 1,
+      id: 106,
       name1: "Philadelphia",
       name2: "Union",
       league: MLS,
@@ -1045,7 +1045,7 @@ const teamsData = {
       state: PA,
     },
     {
-      id: 1,
+      id: 107,
       name1: "Toronto",
       name2: "FC",
       league: MLS,
@@ -1054,7 +1054,7 @@ const teamsData = {
       state: CAN,
     },
     {
-      id: 1,
+      id: 108,
       name1: "Austin",
       name2: "FC",
       league: MLS,
@@ -1063,7 +1063,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 109,
       name1: "Colorado",
       name2: "Rapids",
       league: MLS,
@@ -1072,7 +1072,7 @@ const teamsData = {
       state: CO,
     },
     {
-      id: 1,
+      id: 110,
       name1: "FC",
       name2: "Dallas",
       league: MLS,
@@ -1081,7 +1081,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 111,
       name1: "Houston",
       name2: "Dynamo FC",
       league: MLS,
@@ -1090,7 +1090,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 112,
       name1: "LA",
       name2: "Galaxy",
       league: MLS,
@@ -1099,7 +1099,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 113,
       name1: "Los Angeles",
       name2: "FC",
       league: MLS,
@@ -1108,7 +1108,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 114,
       name1: "Minnesota",
       name2: "United FC",
       league: MLS,
@@ -1117,7 +1117,7 @@ const teamsData = {
       state: MN,
     },
     {
-      id: 1,
+      id: 115,
       name1: "Portland",
       name2: "Timbers",
       league: MLS,
@@ -1126,7 +1126,7 @@ const teamsData = {
       state: OR,
     },
     {
-      id: 1,
+      id: 116,
       name1: "Real",
       name2: "Salt Lake",
       league: MLS,
@@ -1135,7 +1135,7 @@ const teamsData = {
       state: UT,
     },
     {
-      id: 1,
+      id: 117,
       name1: "San Jose",
       name2: "Earthquakes",
       league: MLS,
@@ -1144,7 +1144,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 118,
       name1: "Seattle",
       name2: "Sounders FC",
       league: MLS,
@@ -1153,7 +1153,7 @@ const teamsData = {
       state: WA,
     },
     {
-      id: 1,
+      id: 119,
       name1: "Sporting",
       name2: "Kansas City",
       league: MLS,
@@ -1162,7 +1162,7 @@ const teamsData = {
       state: MO,
     },
     {
-      id: 1,
+      id: 120,
       name1: "St. Louis",
       name2: "City SC",
       league: MLS,
@@ -1171,7 +1171,7 @@ const teamsData = {
       state: MO,
     },
     {
-      id: 1,
+      id: 121,
       name1: "Vancouver",
       name2: "Whitecaps FC",
       league: MLS,
@@ -1179,7 +1179,6 @@ const teamsData = {
       division: null,
       state: CAN,
     },
-
     // NHL
     {
       id: 1,

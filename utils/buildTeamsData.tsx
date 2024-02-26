@@ -357,6 +357,7 @@ const teamsData = {
       division: SOUTHWEST,
       state: TX,
     },
+
     // NFL
     {
       id: 31,
@@ -646,6 +647,7 @@ const teamsData = {
       division: WEST,
       state: WA,
     },
+
     // MLB (92)
     {
       id: 63,
@@ -917,6 +919,7 @@ const teamsData = {
       division: WEST,
       state: CA,
     },
+
     // MLS (121)
     {
       id: 93,
@@ -1179,6 +1182,7 @@ const teamsData = {
       division: null,
       state: CAN,
     },
+
     // NHL
     {
       id: 122,
@@ -1468,6 +1472,7 @@ const teamsData = {
       division: PACIFIC,
       state: NV,
     },
+
     // WNBA
     {
       id: 154,
@@ -1577,10 +1582,11 @@ const teamsData = {
       division: null,
       state: WA,
     },
+
     // NCAA
-    //ACC
+    // ACC
     {
-      id: 1,
+      id: 166,
       name1: "Boston College",
       name2: "Eagles",
       league: NCAA,
@@ -1589,7 +1595,7 @@ const teamsData = {
       state: MA,
     },
     {
-      id: 1,
+      id: 167,
       name1: "Clemson",
       name2: "Tigers",
       league: NCAA,
@@ -1598,7 +1604,7 @@ const teamsData = {
       state: SC,
     },
     {
-      id: 1,
+      id: 168,
       name1: "Duke",
       name2: "Blue Devils",
       league: NCAA,
@@ -1607,7 +1613,7 @@ const teamsData = {
       state: NC,
     },
     {
-      id: 1,
+      id: 169,
       name1: "Florida State",
       name2: "Seminoles",
       league: NCAA,
@@ -1616,7 +1622,7 @@ const teamsData = {
       state: FL,
     },
     {
-      id: 1,
+      id: 170,
       name1: "Georgia Tech",
       name2: "Yellow Jackets",
       league: NCAA,
@@ -1625,7 +1631,7 @@ const teamsData = {
       state: GA,
     },
     {
-      id: 1,
+      id: 171,
       name1: "Louisville",
       name2: "Cardinals",
       league: NCAA,
@@ -1634,7 +1640,7 @@ const teamsData = {
       state: KY,
     },
     {
-      id: 1,
+      id: 172,
       name1: "Miami",
       name2: "Hurricanes",
       league: NCAA,
@@ -1643,7 +1649,7 @@ const teamsData = {
       state: FL,
     },
     {
-      id: 1,
+      id: 173,
       name1: "North Carolina",
       name2: "Tar Heels",
       league: NCAA,
@@ -1652,7 +1658,7 @@ const teamsData = {
       state: NC,
     },
     {
-      id: 1,
+      id: 174,
       name1: "North Carolina State",
       name2: "Wolfpack",
       league: NCAA,
@@ -1661,7 +1667,7 @@ const teamsData = {
       state: NC,
     },
     {
-      id: 1,
+      id: 175,
       name1: "Notre Dame",
       name2: "Fighting Irish",
       league: NCAA,
@@ -1670,7 +1676,7 @@ const teamsData = {
       state: IN,
     },
     {
-      id: 1,
+      id: 176,
       name1: "Pittsburgh",
       name2: "Panthers",
       league: NCAA,
@@ -1679,7 +1685,7 @@ const teamsData = {
       state: PA,
     },
     {
-      id: 1,
+      id: 177,
       name1: "Syracuse",
       name2: "Orange",
       league: NCAA,
@@ -1688,7 +1694,7 @@ const teamsData = {
       state: NY,
     },
     {
-      id: 1,
+      id: 178,
       name1: "Virginia",
       name2: "Cavaliers",
       league: NCAA,
@@ -1697,7 +1703,7 @@ const teamsData = {
       state: VA,
     },
     {
-      id: 1,
+      id: 179,
       name1: "Virginia Tech",
       name2: "Hokies",
       league: NCAA,
@@ -1706,7 +1712,7 @@ const teamsData = {
       state: VA,
     },
     {
-      id: 1,
+      id: 180,
       name1: "Wake Forest",
       name2: "Demon Deacons",
       league: NCAA,
@@ -1715,7 +1721,7 @@ const teamsData = {
       state: NC,
     },
     {
-      id: 1,
+      id: 181,
       name1: "California",
       name2: "Golden Bears",
       league: NCAA,
@@ -1724,7 +1730,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 182,
       name1: "Stanford",
       name2: "Cardinal",
       league: NCAA,
@@ -1733,9 +1739,9 @@ const teamsData = {
       state: CA,
     },
 
-    //Big Ten
+    // Big Ten
     {
-      id: 1,
+      id: 183,
       name1: "Illinois",
       name2: "Fighting Illini",
       league: NCAA,
@@ -1744,7 +1750,7 @@ const teamsData = {
       state: IL,
     },
     {
-      id: 1,
+      id: 184,
       name1: "Indiana",
       name2: "Hoosiers",
       league: NCAA,
@@ -1753,7 +1759,7 @@ const teamsData = {
       state: IN,
     },
     {
-      id: 1,
+      id: 185,
       name1: "Iowa",
       name2: "Hawkeyes",
       league: NCAA,
@@ -1762,7 +1768,7 @@ const teamsData = {
       state: IA,
     },
     {
-      id: 1,
+      id: 186,
       name1: "Maryland",
       name2: "Terrapins",
       league: NCAA,
@@ -1771,7 +1777,7 @@ const teamsData = {
       state: MD,
     },
     {
-      id: 1,
+      id: 187,
       name1: "Michigan",
       name2: "Wolverines",
       league: NCAA,
@@ -1780,7 +1786,7 @@ const teamsData = {
       state: MI,
     },
     {
-      id: 1,
+      id: 188,
       name1: "Michigan State",
       name2: "Spartans",
       league: NCAA,
@@ -1789,7 +1795,7 @@ const teamsData = {
       state: MI,
     },
     {
-      id: 1,
+      id: 189,
       name1: "Minnesota",
       name2: "Golden Gophers",
       league: NCAA,
@@ -1798,7 +1804,7 @@ const teamsData = {
       state: MN,
     },
     {
-      id: 1,
+      id: 190,
       name1: "Nebraska",
       name2: "Cornhuskers",
       league: NCAA,
@@ -1807,7 +1813,7 @@ const teamsData = {
       state: NE,
     },
     {
-      id: 1,
+      id: 191,
       name1: "Northwestern",
       name2: "Wildcats",
       league: NCAA,
@@ -1816,7 +1822,7 @@ const teamsData = {
       state: IL,
     },
     {
-      id: 1,
+      id: 192,
       name1: "Ohio State",
       name2: "Buckeyes",
       league: NCAA,
@@ -1825,7 +1831,7 @@ const teamsData = {
       state: OH,
     },
     {
-      id: 1,
+      id: 193,
       name1: "Oregon",
       name2: "Ducks",
       league: NCAA,
@@ -1834,7 +1840,7 @@ const teamsData = {
       state: OR,
     },
     {
-      id: 1,
+      id: 194,
       name1: "Penn State",
       name2: "Nittany Lions",
       league: NCAA,
@@ -1843,7 +1849,7 @@ const teamsData = {
       state: PA,
     },
     {
-      id: 1,
+      id: 195,
       name1: "Purdue",
       name2: "Boilermakers",
       league: NCAA,
@@ -1852,7 +1858,7 @@ const teamsData = {
       state: IN,
     },
     {
-      id: 1,
+      id: 196,
       name1: "Rutgers",
       name2: "Scarlet Knights",
       league: NCAA,
@@ -1861,7 +1867,7 @@ const teamsData = {
       state: NJ,
     },
     {
-      id: 1,
+      id: 197,
       name1: "UCLA",
       name2: "Bruins",
       league: NCAA,
@@ -1870,7 +1876,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 198,
       name1: "USC",
       name2: "Trojans",
       league: NCAA,
@@ -1879,7 +1885,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 199,
       name1: "Washington",
       name2: "Huskies",
       league: NCAA,
@@ -1888,7 +1894,7 @@ const teamsData = {
       state: WA,
     },
     {
-      id: 1,
+      id: 200,
       name1: "Wisconsin",
       name2: "Badgers",
       league: NCAA,
@@ -1897,9 +1903,9 @@ const teamsData = {
       state: WI,
     },
 
-    //Big 12
+    // Big 12
     {
-      id: 1,
+      id: 201,
       name1: "Baylor",
       name2: "Bears",
       league: NCAA,
@@ -1908,7 +1914,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 202,
       name1: "BYU",
       name2: "Cougars",
       league: NCAA,
@@ -1917,7 +1923,7 @@ const teamsData = {
       state: UT,
     },
     {
-      id: 1,
+      id: 203,
       name1: "Cincinnati",
       name2: "Bearcats",
       league: NCAA,
@@ -1926,7 +1932,7 @@ const teamsData = {
       state: OH,
     },
     {
-      id: 1,
+      id: 204,
       name1: "Houston",
       name2: "Cougars",
       league: NCAA,
@@ -1935,7 +1941,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 205,
       name1: "Iowa State",
       name2: "Cyclones",
       league: NCAA,
@@ -1944,7 +1950,7 @@ const teamsData = {
       state: IA,
     },
     {
-      id: 1,
+      id: 206,
       name1: "Kansas",
       name2: "Jayhawks",
       league: NCAA,
@@ -1953,7 +1959,7 @@ const teamsData = {
       state: KS,
     },
     {
-      id: 1,
+      id: 207,
       name1: "Kansas State",
       name2: "Wildcats",
       league: NCAA,
@@ -1962,7 +1968,7 @@ const teamsData = {
       state: KS,
     },
     {
-      id: 1,
+      id: 208,
       name1: "Oklahoma State",
       name2: "Cowboys",
       league: NCAA,
@@ -1971,7 +1977,7 @@ const teamsData = {
       state: OK,
     },
     {
-      id: 1,
+      id: 209,
       name1: "TCU",
       name2: "Horned Frogs",
       league: NCAA,
@@ -1980,7 +1986,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 210,
       name1: "Texas Tech",
       name2: "Red Raiders",
       league: NCAA,
@@ -1989,7 +1995,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 211,
       name1: "West Virginia",
       name2: "Mountaineers",
       league: NCAA,
@@ -1998,7 +2004,7 @@ const teamsData = {
       state: WV,
     },
     {
-      id: 1,
+      id: 212,
       name1: "UCF",
       name2: "Knights",
       league: NCAA,
@@ -2007,7 +2013,7 @@ const teamsData = {
       state: ID,
     },
     {
-      id: 1,
+      id: 213,
       name1: "Arizona",
       name2: "Wildcats",
       league: NCAA,
@@ -2016,7 +2022,7 @@ const teamsData = {
       state: AZ,
     },
     {
-      id: 1,
+      id: 214,
       name1: "Arizona State",
       name2: "Sun Devils",
       league: NCAA,
@@ -2025,7 +2031,7 @@ const teamsData = {
       state: AZ,
     },
     {
-      id: 1,
+      id: 215,
       name1: "Colorado",
       name2: "Buffaloes",
       league: NCAA,
@@ -2034,7 +2040,7 @@ const teamsData = {
       state: CO,
     },
     {
-      id: 1,
+      id: 216,
       name1: "Utah",
       name2: "Utes",
       league: NCAA,
@@ -2043,9 +2049,9 @@ const teamsData = {
       state: UT,
     },
 
-    //Pac-12
+    // Pac-12
     {
-      id: 1,
+      id: 217,
       name1: "Oregon State",
       name2: "Beavers",
       league: NCAA,
@@ -2054,7 +2060,7 @@ const teamsData = {
       state: OR,
     },
     {
-      id: 1,
+      id: 218,
       name1: "Washington State",
       name2: "Cougars",
       league: NCAA,
@@ -2063,9 +2069,9 @@ const teamsData = {
       state: WA,
     },
 
-    //SEC
+    // SEC
     {
-      id: 1,
+      id: 219,
       name1: "Alabama",
       name2: "Crimson Tide",
       league: NCAA,
@@ -2074,7 +2080,7 @@ const teamsData = {
       state: AL,
     },
     {
-      id: 1,
+      id: 220,
       name1: "Arkansas",
       name2: "Razorbacks",
       league: NCAA,
@@ -2083,7 +2089,7 @@ const teamsData = {
       state: AR,
     },
     {
-      id: 1,
+      id: 221,
       name1: "Auburn",
       name2: "Tigers",
       league: NCAA,
@@ -2092,7 +2098,7 @@ const teamsData = {
       state: AL,
     },
     {
-      id: 1,
+      id: 222,
       name1: "Florida",
       name2: "Gators",
       league: NCAA,
@@ -2101,7 +2107,7 @@ const teamsData = {
       state: FL,
     },
     {
-      id: 1,
+      id: 223,
       name1: "Georgia",
       name2: "Bulldogs",
       league: NCAA,
@@ -2110,7 +2116,7 @@ const teamsData = {
       state: GA,
     },
     {
-      id: 1,
+      id: 224,
       name1: "Kentucky",
       name2: "Wildcats",
       league: NCAA,
@@ -2119,7 +2125,7 @@ const teamsData = {
       state: KY,
     },
     {
-      id: 1,
+      id: 225,
       name1: "LSU",
       name2: "Tigers",
       league: NCAA,
@@ -2128,7 +2134,7 @@ const teamsData = {
       state: LA,
     },
     {
-      id: 1,
+      id: 226,
       name1: "Ole Miss",
       name2: "Rebels",
       league: NCAA,
@@ -2137,7 +2143,7 @@ const teamsData = {
       state: MS,
     },
     {
-      id: 1,
+      id: 227,
       name1: "Mississippi State",
       name2: "Bulldogs",
       league: NCAA,
@@ -2146,7 +2152,7 @@ const teamsData = {
       state: MS,
     },
     {
-      id: 1,
+      id: 228,
       name1: "Missouri",
       name2: "Tigers",
       league: NCAA,
@@ -2155,7 +2161,7 @@ const teamsData = {
       state: MO,
     },
     {
-      id: 1,
+      id: 229,
       name1: "South Carolina",
       name2: "Gamecocks",
       league: NCAA,
@@ -2164,7 +2170,7 @@ const teamsData = {
       state: SC,
     },
     {
-      id: 1,
+      id: 230,
       name1: "Tennessee",
       name2: "Volunteers",
       league: NCAA,
@@ -2173,7 +2179,7 @@ const teamsData = {
       state: TN,
     },
     {
-      id: 1,
+      id: 231,
       name1: "Texas A&M",
       name2: "Aggies",
       league: NCAA,
@@ -2182,7 +2188,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 232,
       name1: "Vanderbilt",
       name2: "Commodores",
       league: NCAA,
@@ -2191,7 +2197,7 @@ const teamsData = {
       state: TN,
     },
     {
-      id: 1,
+      id: 233,
       name1: "Oklahoma",
       name2: "Sooners",
       league: NCAA,
@@ -2200,7 +2206,7 @@ const teamsData = {
       state: OK,
     },
     {
-      id: 1,
+      id: 234,
       name1: "Texas",
       name2: "Longhorns",
       league: NCAA,

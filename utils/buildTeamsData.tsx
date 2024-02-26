@@ -359,7 +359,7 @@ const teamsData = {
     },
     // NFL
     {
-      id: 1,
+      id: 31,
       name1: "Buffalo",
       name2: "Bills",
       league: NFL,
@@ -368,7 +368,7 @@ const teamsData = {
       state: NY,
     },
     {
-      id: 1,
+      id: 32,
       name1: "Miami",
       name2: "Dolphins",
       league: NFL,
@@ -377,7 +377,7 @@ const teamsData = {
       state: FL,
     },
     {
-      id: 1,
+      id: 33,
       name1: "New England",
       name2: "Patriots",
       league: NFL,
@@ -386,7 +386,7 @@ const teamsData = {
       state: MA,
     },
     {
-      id: 1,
+      id: 34,
       name1: "New York",
       name2: "Jets",
       league: NFL,
@@ -395,7 +395,7 @@ const teamsData = {
       state: NY,
     },
     {
-      id: 1,
+      id: 35,
       name1: "Baltimore",
       name2: "Ravens",
       league: NFL,
@@ -404,7 +404,7 @@ const teamsData = {
       state: MD,
     },
     {
-      id: 1,
+      id: 36,
       name1: "Cincinnati",
       name2: "Bengals",
       league: NFL,
@@ -413,7 +413,7 @@ const teamsData = {
       state: OH,
     },
     {
-      id: 1,
+      id: 37,
       name1: "Cleveland",
       name2: "Browns",
       league: NFL,
@@ -422,7 +422,7 @@ const teamsData = {
       state: OH,
     },
     {
-      id: 1,
+      id: 38,
       name1: "Pittsburgh",
       name2: "Steelers",
       league: NFL,
@@ -431,7 +431,7 @@ const teamsData = {
       state: PA,
     },
     {
-      id: 1,
+      id: 39,
       name1: "Houston",
       name2: "Texans",
       league: NFL,
@@ -440,7 +440,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 40,
       name1: "Indianapolis",
       name2: "Colts",
       league: NFL,
@@ -449,7 +449,7 @@ const teamsData = {
       state: IN,
     },
     {
-      id: 1,
+      id: 41,
       name1: "Jacksonville",
       name2: "Jaguars",
       league: NFL,
@@ -458,7 +458,7 @@ const teamsData = {
       state: FL,
     },
     {
-      id: 1,
+      id: 42,
       name1: "Tennessee",
       name2: "Titans",
       league: NFL,
@@ -467,7 +467,7 @@ const teamsData = {
       state: TN,
     },
     {
-      id: 1,
+      id: 43,
       name1: "Denver",
       name2: "Broncos",
       league: NFL,
@@ -476,7 +476,7 @@ const teamsData = {
       state: CO,
     },
     {
-      id: 1,
+      id: 44,
       name1: "Kansas City",
       name2: "Chiefs",
       league: NFL,
@@ -485,7 +485,7 @@ const teamsData = {
       state: MO,
     },
     {
-      id: 1,
+      id: 45,
       name1: "Las Vegas",
       name2: "Raiders",
       league: NFL,
@@ -494,7 +494,7 @@ const teamsData = {
       state: NV,
     },
     {
-      id: 1,
+      id: 46,
       name1: "Los Angeles",
       name2: "Chargers",
       league: NFL,
@@ -503,7 +503,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 47,
       name1: "Dallas",
       name2: "Cowboys",
       league: NFL,
@@ -512,7 +512,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 48,
       name1: "New York",
       name2: "Giants",
       league: NFL,
@@ -521,7 +521,7 @@ const teamsData = {
       state: NY,
     },
     {
-      id: 1,
+      id: 49,
       name1: "Philadelphia",
       name2: "Eagles",
       league: NFL,
@@ -530,7 +530,7 @@ const teamsData = {
       state: PA,
     },
     {
-      id: 1,
+      id: 50,
       name1: "Washington",
       name2: "Football Team",
       league: NFL,
@@ -539,7 +539,7 @@ const teamsData = {
       state: DC,
     },
     {
-      id: 1,
+      id: 51,
       name1: "Chicago",
       name2: "Bears",
       league: NFL,
@@ -548,7 +548,7 @@ const teamsData = {
       state: IL,
     },
     {
-      id: 1,
+      id: 52,
       name1: "Detroit",
       name2: "Lions",
       league: NFL,
@@ -557,7 +557,7 @@ const teamsData = {
       state: MI,
     },
     {
-      id: 1,
+      id: 53,
       name1: "Green Bay",
       name2: "Packers",
       league: NFL,
@@ -566,7 +566,7 @@ const teamsData = {
       state: WI,
     },
     {
-      id: 1,
+      id: 54,
       name1: "Minnesota",
       name2: "Vikings",
       league: NFL,
@@ -575,7 +575,7 @@ const teamsData = {
       state: MN,
     },
     {
-      id: 1,
+      id: 55,
       name1: "Atlanta",
       name2: "Falcons",
       league: NFL,
@@ -584,7 +584,7 @@ const teamsData = {
       state: GA,
     },
     {
-      id: 1,
+      id: 56,
       name1: "Carolina",
       name2: "Panthers",
       league: NFL,
@@ -593,7 +593,7 @@ const teamsData = {
       state: NC,
     },
     {
-      id: 1,
+      id: 57,
       name1: "New Orleans",
       name2: "Saints",
       league: NFL,
@@ -602,7 +602,7 @@ const teamsData = {
       state: LA,
     },
     {
-      id: 1,
+      id: 58,
       name1: "Tampa Bay",
       name2: "Buccaneers",
       league: NFL,
@@ -611,7 +611,7 @@ const teamsData = {
       state: FL,
     },
     {
-      id: 1,
+      id: 59,
       name1: "Arizona",
       name2: "Cardinals",
       league: NFL,
@@ -620,7 +620,7 @@ const teamsData = {
       state: AZ,
     },
     {
-      id: 1,
+      id: 60,
       name1: "Los Angeles",
       name2: "Rams",
       league: NFL,
@@ -629,7 +629,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 61,
       name1: "San Francisco",
       name2: "49ers",
       league: NFL,
@@ -638,7 +638,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 62,
       name1: "Seattle",
       name2: "Seahawks",
       league: NFL,
@@ -646,7 +646,6 @@ const teamsData = {
       division: WEST,
       state: WA,
     },
-
     // MLB (92)
     {
       id: 1,

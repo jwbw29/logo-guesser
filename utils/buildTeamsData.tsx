@@ -648,7 +648,7 @@ const teamsData = {
     },
     // MLB (92)
     {
-      id: 1,
+      id: 63,
       name1: "Baltimore",
       name2: "Orioles",
       league: MLB,
@@ -657,7 +657,7 @@ const teamsData = {
       state: MD,
     },
     {
-      id: 1,
+      id: 64,
       name1: "Boston",
       name2: "Red Sox",
       league: MLB,
@@ -666,7 +666,7 @@ const teamsData = {
       state: MA,
     },
     {
-      id: 1,
+      id: 65,
       name1: "New York",
       name2: "Yankees",
       league: MLB,
@@ -675,7 +675,7 @@ const teamsData = {
       state: NY,
     },
     {
-      id: 1,
+      id: 66,
       name1: "Tampa Bay",
       name2: "Rays",
       league: MLB,
@@ -684,7 +684,7 @@ const teamsData = {
       state: FL,
     },
     {
-      id: 1,
+      id: 67,
       name1: "Toronto",
       name2: "Blue Jays",
       league: MLB,
@@ -693,7 +693,7 @@ const teamsData = {
       state: CAN,
     },
     {
-      id: 1,
+      id: 68,
       name1: "Chicago",
       name2: "White Sox",
       league: MLB,
@@ -702,7 +702,7 @@ const teamsData = {
       state: IL,
     },
     {
-      id: 1,
+      id: 69,
       name1: "Cleveland",
       name2: "Guardians",
       league: MLB,
@@ -711,7 +711,7 @@ const teamsData = {
       state: OH,
     },
     {
-      id: 1,
+      id: 70,
       name1: "Detroit",
       name2: "Tigers",
       league: MLB,
@@ -720,7 +720,7 @@ const teamsData = {
       state: MI,
     },
     {
-      id: 1,
+      id: 71,
       name1: "Kansas City",
       name2: "Royals",
       league: MLB,
@@ -729,7 +729,7 @@ const teamsData = {
       state: MO,
     },
     {
-      id: 1,
+      id: 72,
       name1: "Minnesota",
       name2: "Twins",
       league: MLB,
@@ -738,7 +738,7 @@ const teamsData = {
       state: MN,
     },
     {
-      id: 1,
+      id: 73,
       name1: "Houston",
       name2: "Astros",
       league: MLB,
@@ -747,7 +747,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 74,
       name1: "Los Angeles",
       name2: "Angels",
       league: MLB,
@@ -756,7 +756,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 75,
       name1: "Oakland",
       name2: "Athletics",
       league: MLB,
@@ -765,7 +765,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 76,
       name1: "Seattle",
       name2: "Mariners",
       league: MLB,
@@ -774,7 +774,7 @@ const teamsData = {
       state: WA,
     },
     {
-      id: 1,
+      id: 77,
       name1: "Texas",
       name2: "Rangers",
       league: MLB,
@@ -783,7 +783,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 78,
       name1: "Atlanta",
       name2: "Braves",
       league: MLB,
@@ -792,7 +792,7 @@ const teamsData = {
       state: GA,
     },
     {
-      id: 1,
+      id: 79,
       name1: "Miami",
       name2: "Marlins",
       league: MLB,
@@ -801,7 +801,7 @@ const teamsData = {
       state: FL,
     },
     {
-      id: 1,
+      id: 80,
       name1: "New York",
       name2: "Mets",
       league: MLB,
@@ -810,7 +810,7 @@ const teamsData = {
       state: NY,
     },
     {
-      id: 1,
+      id: 81,
       name1: "Philadelphia",
       name2: "Phillies",
       league: MLB,
@@ -819,7 +819,7 @@ const teamsData = {
       state: PA,
     },
     {
-      id: 1,
+      id: 82,
       name1: "Washington",
       name2: "Nationals",
       league: MLB,
@@ -828,7 +828,7 @@ const teamsData = {
       state: DC,
     },
     {
-      id: 1,
+      id: 83,
       name1: "Chicago",
       name2: "Cubs",
       league: MLB,
@@ -837,7 +837,7 @@ const teamsData = {
       state: IL,
     },
     {
-      id: 1,
+      id: 84,
       name1: "Cincinnati",
       name2: "Reds",
       league: MLB,
@@ -846,7 +846,7 @@ const teamsData = {
       state: OH,
     },
     {
-      id: 1,
+      id: 85,
       name1: "Milwaukee",
       name2: "Brewers",
       league: MLB,
@@ -855,7 +855,7 @@ const teamsData = {
       state: WI,
     },
     {
-      id: 1,
+      id: 86,
       name1: "Pittsburgh",
       name2: "Pirates",
       league: MLB,
@@ -864,7 +864,7 @@ const teamsData = {
       state: PA,
     },
     {
-      id: 1,
+      id: 87,
       name1: "St. Louis",
       name2: "Cardinals",
       league: MLB,
@@ -873,7 +873,7 @@ const teamsData = {
       state: MO,
     },
     {
-      id: 1,
+      id: 88,
       name1: "Arizona",
       name2: "Diamondbacks",
       league: MLB,
@@ -882,7 +882,7 @@ const teamsData = {
       state: AZ,
     },
     {
-      id: 1,
+      id: 89,
       name1: "Colorado",
       name2: "Rockies",
       league: MLB,
@@ -891,7 +891,7 @@ const teamsData = {
       state: CO,
     },
     {
-      id: 1,
+      id: 90,
       name1: "Los Angeles",
       name2: "Dodgers",
       league: MLB,
@@ -900,7 +900,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 91,
       name1: "San Diego",
       name2: "Padres",
       league: MLB,
@@ -909,7 +909,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 92,
       name1: "San Francisco",
       name2: "Giants",
       league: MLB,
@@ -917,7 +917,6 @@ const teamsData = {
       division: WEST,
       state: CA,
     },
-
     // MLS (121)
     {
       id: 1,

@@ -97,7 +97,7 @@ const teamsData = {
       state: MA,
     },
     {
-      id: 1,
+      id: 2,
       name1: "Brooklyn",
       name2: "Nets",
       league: NBA,
@@ -106,7 +106,7 @@ const teamsData = {
       state: NY,
     },
     {
-      id: 1,
+      id: 3,
       name1: "New York",
       name2: "Knicks",
       league: NBA,
@@ -115,7 +115,7 @@ const teamsData = {
       state: NY,
     },
     {
-      id: 1,
+      id: 4,
       name1: "Philadelphia",
       name2: "76ers",
       league: NBA,
@@ -124,7 +124,7 @@ const teamsData = {
       state: PA,
     },
     {
-      id: 1,
+      id: 5,
       name1: "Toronto",
       name2: "Raptors",
       league: NBA,
@@ -133,7 +133,7 @@ const teamsData = {
       state: CAN,
     },
     {
-      id: 1,
+      id: 6,
       name1: "Chicago",
       name2: "Bulls",
       league: NBA,
@@ -142,7 +142,7 @@ const teamsData = {
       state: IL,
     },
     {
-      id: 1,
+      id: 7,
       name1: "Cleveland",
       name2: "Cavaliers",
       league: NBA,
@@ -151,7 +151,7 @@ const teamsData = {
       state: OH,
     },
     {
-      id: 1,
+      id: 8,
       name1: "Detroit",
       name2: "Pistons",
       league: NBA,
@@ -160,7 +160,7 @@ const teamsData = {
       state: MI,
     },
     {
-      id: 1,
+      id: 9,
       name1: "Indiana",
       name2: "Pacers",
       league: NBA,
@@ -169,7 +169,7 @@ const teamsData = {
       state: IN,
     },
     {
-      id: 1,
+      id: 10,
       name1: "Milwaukee",
       name2: "Bucks",
       league: NBA,
@@ -178,7 +178,7 @@ const teamsData = {
       state: WI,
     },
     {
-      id: 1,
+      id: 11,
       name1: "Atlanta",
       name2: "Hawks",
       league: NBA,
@@ -187,7 +187,7 @@ const teamsData = {
       state: GA,
     },
     {
-      id: 1,
+      id: 12,
       name1: "Charlotte",
       name2: "Hornets",
       league: NBA,
@@ -196,7 +196,7 @@ const teamsData = {
       state: NC,
     },
     {
-      id: 1,
+      id: 13,
       name1: "Miami",
       name2: "Heat",
       league: NBA,
@@ -205,7 +205,7 @@ const teamsData = {
       state: FL,
     },
     {
-      id: 1,
+      id: 14,
       name1: "Orlando",
       name2: "Magic",
       league: NBA,
@@ -214,7 +214,7 @@ const teamsData = {
       state: FL,
     },
     {
-      id: 1,
+      id: 15,
       name1: "Washington",
       name2: "Wizards",
       league: NBA,
@@ -223,7 +223,7 @@ const teamsData = {
       state: DC,
     },
     {
-      id: 1,
+      id: 16,
       name1: "Denver",
       name2: "Nuggets",
       league: NBA,
@@ -232,7 +232,7 @@ const teamsData = {
       state: CO,
     },
     {
-      id: 1,
+      id: 17,
       name1: "Minnesota",
       name2: "Timberwolves",
       league: NBA,
@@ -241,7 +241,7 @@ const teamsData = {
       state: MN,
     },
     {
-      id: 1,
+      id: 18,
       name1: "Oklahoma City",
       name2: "Thunder",
       league: NBA,
@@ -250,7 +250,7 @@ const teamsData = {
       state: OK,
     },
     {
-      id: 1,
+      id: 19,
       name1: "Portland",
       name2: "Trail Blazers",
       league: NBA,
@@ -259,7 +259,7 @@ const teamsData = {
       state: OR,
     },
     {
-      id: 1,
+      id: 20,
       name1: "Utah",
       name2: "Jazz",
       league: NBA,
@@ -268,7 +268,7 @@ const teamsData = {
       state: UT,
     },
     {
-      id: 1,
+      id: 21,
       name1: "Golden State",
       name2: "Warriors",
       league: NBA,
@@ -277,7 +277,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 22,
       name1: "Los Angeles",
       name2: "Clippers",
       league: NBA,
@@ -286,7 +286,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 23,
       name1: "Los Angeles",
       name2: "Lakers",
       league: NBA,
@@ -295,7 +295,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 24,
       name1: "Phoenix",
       name2: "Suns",
       league: NBA,
@@ -304,7 +304,7 @@ const teamsData = {
       state: AZ,
     },
     {
-      id: 1,
+      id: 25,
       name1: "Sacramento",
       name2: "Kings",
       league: NBA,
@@ -313,7 +313,7 @@ const teamsData = {
       state: CA,
     },
     {
-      id: 1,
+      id: 26,
       name1: "Dallas",
       name2: "Mavericks",
       league: NBA,
@@ -322,7 +322,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 27,
       name1: "Houston",
       name2: "Rockets",
       league: NBA,
@@ -331,7 +331,7 @@ const teamsData = {
       state: TX,
     },
     {
-      id: 1,
+      id: 28,
       name1: "Memphis",
       name2: "Grizzlies",
       league: NBA,
@@ -340,7 +340,7 @@ const teamsData = {
       state: TN,
     },
     {
-      id: 1,
+      id: 29,
       name1: "New Orleans",
       name2: "Pelicans",
       league: NBA,
@@ -349,7 +349,7 @@ const teamsData = {
       state: LA,
     },
     {
-      id: 1,
+      id: 30,
       name1: "San Antonio",
       name2: "Spurs",
       league: NBA,
@@ -357,7 +357,6 @@ const teamsData = {
       division: SOUTHWEST,
       state: TX,
     },
-
     // NFL
     {
       id: 1,

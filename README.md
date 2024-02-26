@@ -1,36 +1,35 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# 🐯 Logo Guesser
 
-First, run the development server:
+![STATUS](https://img.shields.io/badge/STATUS-In_Process-yellow.svg)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 💡 The idea
+This is a team logo trivia game. A logo will appear on the screen and you have 4 teams to choose from. One of them is the correct answer, the other three are randomly generated from the total teams list. 
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🏆 MVP
+A random logo from the 200+ teams will be displayed with 4 answers to choose from
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
-## Learn More
+## 🔮 Upcoming Features
+### Filter by League, Conferences, or State
+- Choose a League, Conference or State and only be provided team logos from your selection
 
-To learn more about Next.js, take a look at the following resources:
+### 🥇 Leaderboard
+- submit your username and email to be placed on the Leaderboard
+    - down the road, be notified when you have been passed on the Leaderboard
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🏀 Leagues Included currently
+- NBA
+- NFL
+- MLB
+- NHL
+- MLS
+- WNBA
+- NCAA Power 5 Conferences (as of 2024-2025 season)
+    - ACC
+    - Big 10 
+    - Big 12
+    - Pac 12
+    - SEC
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.

@@ -1,95 +1,179 @@
+//Define Types
+
+export type League = "NBA" | "NFL" | "MLB" | "MLS" | "NHL" | "WNBA" | "NCAA";
+
+export type Conference =
+  | "Western Conference"
+  | "Eastern Conference"
+  | "National League"
+  | "American League"
+  | "NFC"
+  | "AFC"
+  | "ACC"
+  | "Big 10"
+  | "Big 12"
+  | "Pac 12"
+  | "SEC";
+
+export type Division =
+  | "Atlantic"
+  | "Central"
+  | "Southeast"
+  | "Northwest"
+  | "Pacific"
+  | "Southwest"
+  | "East"
+  | "West"
+  | "North"
+  | "South"
+  | "Metropolitan";
+
+export type State =
+  | "Alabama"
+  | "Alaska"
+  | "Arizona"
+  | "Arkansas"
+  | "California"
+  | "Colorado"
+  | "Connecticut"
+  | "Washington D.C."
+  | "Delaware"
+  | "Florida"
+  | "Georgia"
+  | "Hawaii"
+  | "Idaho"
+  | "Illinois"
+  | "Indiana"
+  | "Iowa"
+  | "Kansas"
+  | "Kentucky"
+  | "Louisiana"
+  | "Maine"
+  | "Maryland"
+  | "Massachusetts"
+  | "Michigan"
+  | "Minnesota"
+  | "Mississippi"
+  | "Missouri"
+  | "Montana"
+  | "Nebraska"
+  | "Nevada"
+  | "New Hampshire"
+  | "New Jersey"
+  | "New Mexico"
+  | "New York"
+  | "North Carolina"
+  | "North Dakota"
+  | "Ohio"
+  | "Oklahoma"
+  | "Oregon"
+  | "Pennsylvania"
+  | "Rhode Island"
+  | "South Carolina"
+  | "South Dakota"
+  | "Tennessee"
+  | "Texas"
+  | "Utah"
+  | "Vermont"
+  | "Virginia"
+  | "Washington"
+  | "West Virginia"
+  | "Wisconsin"
+  | "Wyoming"
+  | "Canada";
+
 //Leagues
-export const NBA = "NBA";
-export const NFL = "NFL";
-export const MLB = "MLB";
-export const MLS = "MLS";
-export const NHL = "NHL";
-export const WNBA = "WNBA";
-export const NCAA = "NCAA";
+export const NBA: League = "NBA";
+export const NFL: League = "NFL";
+export const MLB: League = "MLB";
+export const MLS: League = "MLS";
+export const NHL: League = "NHL";
+export const WNBA: League = "WNBA";
+export const NCAA: League = "NCAA";
 
 //Conferences
 //NBA/NHL/WNBA/MLS
-export const WESTERN_CONFERENCE = "Western Conference";
-export const EASTERN_CONFERENCE = "";
+export const WESTERN_CONFERENCE: Conference = "Western Conference";
+export const EASTERN_CONFERENCE: Conference = "Eastern Conference";
 
 //MLB
-export const NATIONAL_LEAGUE = "National League";
-export const AMERICAN_LEAGUE = "American League";
+export const NATIONAL_LEAGUE: Conference = "National League";
+export const AMERICAN_LEAGUE: Conference = "American League";
 
 //NFL
-export const NFC = "NFC";
-export const AFC = "AFC";
+export const NFC: Conference = "NFC";
+export const AFC: Conference = "AFC";
 
 //NCAA
-export const ACC = "ACC";
-export const BIG_10 = "Big 10";
-export const BIG_12 = "Big 12";
-export const PAC_12 = "Pac 12";
-export const SEC = "SEC";
+export const ACC: Conference = "ACC";
+export const BIG_10: Conference = "Big 10";
+export const BIG_12: Conference = "Big 12";
+export const PAC_12: Conference = "Pac 12";
+export const SEC: Conference = "SEC";
 
 //Divisions
-export const ATLANTIC = "Atlantic";
-export const CENTRAL = "Central";
-export const SOUTHEAST = "Southeast";
-export const NORTHWEST = "Northwest";
-export const PACIFIC = "Pacific";
-export const SOUTHWEST = "Southwest";
-export const EAST = "East";
-export const WEST = "West";
-export const NORTH = "North";
-export const SOUTH = "South";
-export const METROPOLITAN = "Metropolitan";
+export const ATLANTIC: Division = "Atlantic";
+export const CENTRAL: Division = "Central";
+export const SOUTHEAST: Division = "Southeast";
+export const NORTHWEST: Division = "Northwest";
+export const PACIFIC: Division = "Pacific";
+export const SOUTHWEST: Division = "Southwest";
+export const EAST: Division = "East";
+export const WEST: Division = "West";
+export const NORTH: Division = "North";
+export const SOUTH: Division = "South";
+export const METROPOLITAN: Division = "Metropolitan";
 
 //States
-export const AL = "Alabama";
-export const AK = "Alaska";
-export const AZ = "Arizona";
-export const AR = "Arkansas";
-export const CA = "California";
-export const CO = "Colorado";
-export const CT = "Connecticut";
-export const DC = "Washington D.C.";
-export const DE = "Delaware";
-export const FL = "Florida";
-export const GA = "Georgia";
-export const HI = "Hawaii";
-export const ID = "Idaho";
-export const IL = "Illinois";
-export const IN = "Indiana";
-export const IA = "Iowa";
-export const KS = "Kansas";
-export const KY = "Kentucky";
-export const LA = "Louisiana";
-export const ME = "Maine";
-export const MD = "Maryland";
-export const MA = "Massachusetts";
-export const MI = "Michigan";
-export const MN = "Minnesota";
-export const MS = "Mississippi";
-export const MO = "Missouri";
-export const MT = "Montana";
-export const NE = "Nebraska";
-export const NV = "Nevada";
-export const NH = "New Hampshire";
-export const NJ = "New Jersey";
-export const NM = "New Mexico";
-export const NY = "New York";
-export const NC = "North Carolina";
-export const ND = "North Dakota";
-export const OH = "Ohio";
-export const OK = "Oklahoma";
-export const OR = "Oregon";
-export const PA = "Pennsylvania";
-export const RI = "Rhode Island";
-export const SC = "South Carolina";
-export const SD = "South Dakota";
-export const TN = "Tennessee";
-export const TX = "Texas";
-export const UT = "Utah";
-export const VT = "Vermont";
-export const VA = "Virginia";
-export const WA = "Washington";
-export const WV = "West Virginia";
-export const WI = "Wisconsin";
-export const WY = "Wyoming";
-export const CAN = "Canada";
+export const AL: State = "Alabama";
+export const AK: State = "Alaska";
+export const AZ: State = "Arizona";
+export const AR: State = "Arkansas";
+export const CA: State = "California";
+export const CO: State = "Colorado";
+export const CT: State = "Connecticut";
+export const DC: State = "Washington D.C.";
+export const DE: State = "Delaware";
+export const FL: State = "Florida";
+export const GA: State = "Georgia";
+export const HI: State = "Hawaii";
+export const ID: State = "Idaho";
+export const IL: State = "Illinois";
+export const IN: State = "Indiana";
+export const IA: State = "Iowa";
+export const KS: State = "Kansas";
+export const KY: State = "Kentucky";
+export const LA: State = "Louisiana";
+export const ME: State = "Maine";
+export const MD: State = "Maryland";
+export const MA: State = "Massachusetts";
+export const MI: State = "Michigan";
+export const MN: State = "Minnesota";
+export const MS: State = "Mississippi";
+export const MO: State = "Missouri";
+export const MT: State = "Montana";
+export const NE: State = "Nebraska";
+export const NV: State = "Nevada";
+export const NH: State = "New Hampshire";
+export const NJ: State = "New Jersey";
+export const NM: State = "New Mexico";
+export const NY: State = "New York";
+export const NC: State = "North Carolina";
+export const ND: State = "North Dakota";
+export const OH: State = "Ohio";
+export const OK: State = "Oklahoma";
+export const OR: State = "Oregon";
+export const PA: State = "Pennsylvania";
+export const RI: State = "Rhode Island";
+export const SC: State = "South Carolina";
+export const SD: State = "South Dakota";
+export const TN: State = "Tennessee";
+export const TX: State = "Texas";
+export const UT: State = "Utah";
+export const VT: State = "Vermont";
+export const VA: State = "Virginia";
+export const WA: State = "Washington";
+export const WV: State = "West Virginia";
+export const WI: State = "Wisconsin";
+export const WY: State = "Wyoming";
+export const CAN: State = "Canada";

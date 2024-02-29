@@ -84,6 +84,15 @@ import {
   CAN,
 } from "../constants/constants";
 
+interface Team {
+  id: number;
+  name1: string;
+  name2: string;
+  conference: string;
+  division: string;
+  state: string;
+}
+
 const teamsData = {
   teams: [
     // NBA
